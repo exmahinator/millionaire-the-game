@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1",
+    "value": "$500",
+    "question": "What company is the owner of Steam platform?",
+    "options": [
+      {
+        "id": "q11",
+        "key": "A",
+        "choice": "Riot"
+      },
+      {
+        "id": "q12",
+        "key": "B",
+        "choice": "Epic Games"
+      },
+      {
+        "id": "q13",
+        "key": "C",
+        "choice": "Ubisoft"
+      },
+      {
+        "id": "q14",
+        "key": "D",
+        "choice": "Valve"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "2",
+    "value": "$1,000",
+    "question": "Where new PC players can receive free games every week?",
+    "options": [
+      {
+        "id": "q21",
+        "key": "A",
+        "choice": "Epic Store"
+      },
+      {
+        "id": "q22",
+        "key": "B",
+        "choice": "Valve Store"
+      },
+      {
+        "id": "q23",
+        "key": "C",
+        "choice": "Apple Store"
+      },
+      {
+        "id": "q24",
+        "key": "D",
+        "choice": "Google Store"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "3",
+    "value": "$2,000",
+    "question": "What character at Elden Ring appears with no equipment except a club?",
+    "options": [
+      {
+        "id": "q31",
+        "key": "A",
+        "choice": "Prisoner"
+      },
+      {
+        "id": "q32",
+        "key": "B",
+        "choice": "Bandit"
+      },
+      {
+        "id": "q33",
+        "key": "C",
+        "choice": "Wretch"
+      },
+      {
+        "id": "q34",
+        "key": "D",
+        "choice": "Prophet"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "4",
+    "value": "$4,000",
+    "question": "At what game the player needs to free the character named 'Deckard Cain' from the prison?",
+    "options": [
+      {
+        "id": "q41",
+        "key": "A",
+        "choice": "Overwatch"
+      },
+      {
+        "id": "q42",
+        "key": "B",
+        "choice": "Diablo II"
+      },
+      {
+        "id": "q43",
+        "key": "C",
+        "choice": "Diablo III"
+      },
+      {
+        "id": "q44",
+        "key": "D",
+        "choice": "Hearthstone"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "5",
+    "value": "$8,000",
+    "question": "What is the name of your riding animal at Elden Ring?",
+    "options": [
+      {
+        "id": "q51",
+        "key": "A",
+        "choice": "Plotva"
+      },
+      {
+        "id": "q52",
+        "key": "B",
+        "choice": "Torrent"
+      },
+      {
+        "id": "q53",
+        "key": "C",
+        "choice": "Storm"
+      },
+      {
+        "id": "q54",
+        "key": "D",
+        "choice": "Spirit"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "6",
+    "value": "$16,000",
+    "question": "What game is the main competitor of Valve's 'Dota 2' game?",
+    "options": [
+      {
+        "id": "q61",
+        "key": "A",
+        "choice": "SMITE"
+      },
+      {
+        "id": "q62",
+        "key": "B",
+        "choice": "League of Legends"
+      },
+      {
+        "id": "q63",
+        "key": "C",
+        "choice": "Heroes of the Storm"
+      },
+      {
+        "id": "q64",
+        "key": "D",
+        "choice": "Heroes of Newerth"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "7",
+    "value": "$32,000",
+    "question": "When the Valve updated their game called 'Dota 2' to patch 7.00 also known as 'The New Journey'update?",
+    "options": [
+      {
+        "id": "q71",
+        "key": "A",
+        "choice": "December 2016"
+      },
+      {
+        "id": "q72",
+        "key": "B",
+        "choice": "June 2016"
+      },
+      {
+        "id": "q73",
+        "key": "C",
+        "choice": "April 2017"
+      },
+      {
+        "id": "q74",
+        "key": "D",
+        "choice": "September 2017"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "8",
+    "value": "$64,000",
+    "question": "What game is already 10 years in early access state?",
+    "options": [
+      {
+        "id": "q81",
+        "key": "A",
+        "choice": "Half-life 3"
+      },
+      {
+        "id": "q82",
+        "key": "B",
+        "choice": "Wartales"
+      },
+      {
+        "id": "q83",
+        "key": "C",
+        "choice": "7 days to die"
+      },
+      {
+        "id": "q84",
+        "key": "D",
+        "choice": "Vampire Survivors"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "9",
+    "value": "$125,000",
+    "question": "What is the name of the game vastly known for using the 'augmented reality technology'?",
+    "options": [
+      {
+        "id": "q91",
+        "key": "A",
+        "choice": "Minion Masters"
+      },
+      {
+        "id": "q92",
+        "key": "B",
+        "choice": "Yu-Gi-Oh! Master Duel"
+      },
+      {
+        "id": "q93",
+        "key": "C",
+        "choice": "Pokemon GO!"
+      },
+      {
+        "id": "q94",
+        "key": "D",
+        "choice": "Summoners War"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "10",
+    "value": "$250,000",
+    "question": "At what year the very first game of The Legends of Zelda seen the world?",
+    "options": [
+      {
+        "id": "q101",
+        "key": "A",
+        "choice": "1982"
+      },
+      {
+        "id": "q102",
+        "key": "B",
+        "choice": "1988"
+      },
+      {
+        "id": "q103",
+        "key": "C",
+        "choice": "1984"
+      },
+      {
+        "id": "q104",
+        "key": "D",
+        "choice": "1986"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "11",
+    "value": "$500,000",
+    "question": "What is the name of the creator of Armored Core series, Demon's Souls, Dark Souls series, Bloodborne, Sekiro and Elden Ring?",
+    "options": [
+      {
+        "id": "q101",
+        "key": "A",
+        "choice": "Hideo Kojima"
+      },
+      {
+        "id": "q102",
+        "key": "B",
+        "choice": "Hidetaka Miyazaki"
+      },
+      {
+        "id": "q103",
+        "key": "C",
+        "choice": "Hayao Miyazaki"
+      },
+      {
+        "id": "q104",
+        "key": "D",
+        "choice": "Shigeru Miyamoto"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "12",
+    "value": "$1,000,000",
+    "question": "Who is Radagon?",
+    "options": [
+      {
+        "id": "q101",
+        "key": "A",
+        "choice": "Radagon of the Golden Order"
+      },
+      {
+        "id": "q102",
+        "key": "B",
+        "choice": "Malenia, Blade of Miquella"
+      },
+      {
+        "id": "q103",
+        "key": "C",
+        "choice": "Queen Marika"
+      },
+      {
+        "id": "q104",
+        "key": "D",
+        "choice": "Hoarah Loux, the Warrior"
+      }
+    ],
+    "answer": "C"
+  }
+]
