@@ -1,0 +1,40 @@
+:root {
+  /* white-100 */
+  --promary-color: #ffffff;
+  /* black-100 */
+  --secondary-color: #1c1c21;
+  /* black-5 */
+  --background-color: #f5f5f7;
+  /* black-40 */
+  --inactive-color: #d0d0d8;
+  --focus-color: #3891b1;
+  --inactive-btn-color: #1e6a8e;
+  --pressed-btn-color: #003b63;
+  --gradient-desktop: #0049740d;
+  /* orange-5 */
+  --gradient-phone: #fff3eb;
+
+  /* optional or not used colors */
+  --unassigned-color-1: #d3d100;
+  --unassigned-color-2: #d3d1004d;
+  --unassigned-color-3: #a34716;
+  --unassigned-color-4: #f8a363;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100vw;
+  height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
