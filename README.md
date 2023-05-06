@@ -18,7 +18,7 @@ Technical requirements:
 7. - when the answer is selected, the button changes state to selected, and after 2 seconds button changes state to correct if the answer is correct and wrong state - if the answer is wrong.
 8. Make all client code typed via TypeScript.
 
-Evaluationcriteria:
+Evaluation criteria:
 1. - a layout that will be easy to expand and maintain;
 2. - architectural organization of the code;
 3. - correct handling of emergency situations
